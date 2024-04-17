@@ -1,0 +1,346 @@
+@charset "utf-8";
+/* CSS Document */
+
+.abu{
+	text-align: center;
+	background: #8A6240;
+	color: aliceblue;
+	
+}
+.imggg{
+	border: medium solid;
+	border-color: black;
+	border-radius: 15px;
+}
+.header h1{
+	text-align: center;
+	padding: 15px;
+}
+.header1{
+	margin-top: 20px;
+}
+
+.btntick button{
+	border: medium solid;
+	border-radius: 10px;
+	background-color: #CABA9C;
+	height: 45px;
+	
+}
+
+.table table{
+	text-align: center;
+	border: medium solid;
+	border-radius: 15px;
+	margin-left: 155px;
+	margin-top: 5px;
+}
+.table1 table{
+	text-align: center;
+	border: medium solid;
+	border-radius: 15px;
+	margin-left: 95px;
+	margin-top: 5px;
+}
+
+.navbar a:hover{
+background: #CABA9C;
+	border: medium solid;
+	border-radius: 15px;
+}
+
+
+
+.navbar-collapse li{
+	display: inline-block;
+}
+
+.navbar-nav ul{
+	text-align: center
+}
+.body{
+	background: #632214
+}
+
+.container-fluid{
+	background : #fffff;
+	margin-top: 50px;
+}
+
+.hall{
+
+	border: 3px solid;
+	border-color: black;
+	margin: 10px 60px 10px;
+
+}
+
+.hallimage p{
+	width: 200px;
+	display: flex;
+}
+
+.hallimage .text{
+	text-align: center
+}
+
+
+.container{
+	background: #fffff
+	
+}
+
+.container1{
+	background: #fffff;
+	margin-top: 30px;
+	display: flex;
+}
+
+.hallimage {
+	max-width: 70%;
+	display: flex;
+}
+
+.hltext h2{
+	text-align: center;
+	margin: 0px 0px 0px 5px;
+    margin-left: 5px;
+	max-width: 100%;
+}
+.heady h1{
+ text-align: center;
+ margin-top: 20px;
+}
+
+.hltext p{
+	text-align: center;
+    max-width: 100%;
+	margin-left: 180px
+
+
+}
+
+.carouselimage{
+	margin-left: 40px;
+}
+
+.textcarou a{
+	display: flex;
+}
+
+.textcarou a p{
+	margin-left: 10px;
+}
+
+.textcarou h2{
+	text-align: center;
+	background: #8A6240;
+	color: white;
+	border-color: black;
+	border: medium solid;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+
+
+.hl{
+	width: 700px;
+	height: 150;
+	margin-left: 155px;
+
+}
+		
+.col-md-4{
+	background: #CABA9C 
+}
+
+.navbar-brand{
+	background: #8A6240 
+}
+
+.navbar{
+	background: #8A6240;
+	font-family: arial;
+	border-bottom: thick;
+	text-align: center;
+	color: #000000;
+	border:medium solid;
+
+	
+}
+.nav-item{
+	padding-left: 50px;
+	font-family: arial;
+
+}
+.aca{
+	max-height: 40px;
+	max-width: 40px;
+	margin: 10px;
+}
+
+.carousel-caption p{
+	font-size: 15px;
+	color:#000000;
+	font-weight: 300;
+	
+}
+.carousel-inner{
+	border: thick solid;
+	border-radius: 15px;
+}
+.carousel-caption{
+
+	background: white;
+	background-size: cover;
+	height:130px;
+	border: thick solid;
+	border-color: #59674B;
+	border-radius: 15px;
+}
+
+.carousel-caption h5{
+	font-size: 35px;
+	font-weight: bolder;
+	font-style: italic;
+	color: #59674B;
+	
+}
+
+.grid{
+	display: grid;
+	grid-template-columns: repeat(5,1fr);
+	grid-gap: 20px;
+}
+
+.input{
+	outline: none;
+	border: none;
+	width: 100%;
+}
+
+.book{
+	padding: 40px 0;
+
+	background: #8A6240;
+	color: #fff;
+	padding-left: 210px;
+}
+
+.book h1{
+	font-family: serif;
+	font-size: 28px;
+	padding-left: 200px
+	
+}
+
+.book input{
+	padding: 20px;
+	width: 200px;
+	height: 50px;
+	
+}
+
+.book input:nth-last-child(1){
+	padding: 20px;
+	background: #CABA9C ;
+	font-weight: bolder;
+	text-align: center;
+	
+}
+
+.contact-box{
+	width: 500px;
+	height: 800px;
+	background: #CABA9C;
+	border: 3px solid;
+	border-radius: 15px;
+	text-align: center;
+	padding: 20px;
+	margin-left: 230px;
+	max-width: 40%;
+	float: right;
+
+}
+
+.contact-box h1{
+	font-family: impact;
+	margin-top: 0px;
+	color: white;
+	border: 1px solid;
+	background: #8A6240;
+	border-radius: 15px;
+}
+
+.contact-box p{
+	font-family: roboto;
+	margin-top: 0px
+}
+
+.text-box{
+	border: 2px solid;
+	margin: 10px 0;
+	padding: 12px 14px;
+	border-radius: 15px;
+}
+
+.text-box input, .text-box textured{
+	outline: none;
+	border: none;
+	background: none;
+	width: 100%;
+	margin-top: 5px;
+	text-align: center
+}
+
+.card-body{
+	background: #CABA9C;
+	overflow: hidden
+}
+
+.card-header{
+	background: #4D2D18
+}
+.a{
+	color: aliceblue
+}
+
+.navbar a{
+	text-align: center;
+}
+
+.btn{
+	padding: 12px 14px;
+	margin-top: 6px;
+	border: 2px solid;
+	background: #8A6240;
+	font-weight: bold;
+	
+}
+
+footer {
+	background-color: #4D2D18;
+}
+
+.footerContainer{
+	width: 100%;
+	padding: 5px 30px 20px;
+	margin-top: 50px;
+	background-color: #4D2D18;
+}
+
+.footerBottom{
+	background-color: #4D2D18;
+}
+
+.footerBottom p{
+	text-align: center;
+	color: white;
+	padding-bottom: 5px;
+}
+
+.socialIcons{
+	display: flex;
+	justify-content: center;
+	
+}
